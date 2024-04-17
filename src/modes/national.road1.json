@@ -1,0 +1,376 @@
+{
+    "mode": "国道1号",
+    "answer": [
+        {
+            "name": "大阪",
+            "prefecture": "大阪府",
+            "type": "city",
+            "isCapital": true,
+            "isDifficult": false
+        },
+        {
+            "name": "守口",
+            "prefecture": "大阪府",
+            "type": "city",
+            "isCapital": false,
+            "isDifficult": true
+        },
+        {
+            "name": "寝屋川",
+            "prefecture": "大阪府",
+            "type": "city",
+            "isCapital": false,
+            "isDifficult": false
+        },
+        {
+            "name": "枚方",
+            "prefecture": "大阪府",
+            "type": "city",
+            "isCapital": false,
+            "isDifficult": false
+        },
+        {
+            "name": "八幡",
+            "prefecture": "京都府",
+            "type": "city",
+            "isCapital": false,
+            "isDifficult": true
+        },
+        {
+            "name": "久御山",
+            "prefecture": "京都府",
+            "type": "town",
+            "isCapital": false,
+            "isDifficult": true
+        },
+        {
+            "name": "京都",
+            "prefecture": "京都府",
+            "type": "city",
+            "isCapital": true,
+            "isDifficult": false
+        },
+        {
+            "name": "大津",
+            "prefecture": "滋賀県",
+            "type": "city",
+            "isCapital": true,
+            "isDifficult": false
+        },
+        {
+            "name": "草津",
+            "prefecture": "滋賀県",
+            "type": "city",
+            "isCapital": false,
+            "isDifficult": false
+        },
+        {
+            "name": "栗東",
+            "prefecture": "滋賀県",
+            "type": "city",
+            "isCapital": false,
+            "isDifficult": true
+        },
+        {
+            "name": "湖南",
+            "prefecture": "滋賀県",
+            "type": "city",
+            "isCapital": false,
+            "isDifficult": true
+        },
+        {
+            "name": "甲賀",
+            "prefecture": "滋賀県",
+            "type": "city",
+            "isCapital": false,
+            "isDifficult": true
+        },
+        {
+            "name": "亀山",
+            "prefecture": "三重県",
+            "type": "city",
+            "isCapital": false,
+            "isDifficult": false
+        },
+        {
+            "name": "鈴鹿",
+            "prefecture": "三重県",
+            "type": "city",
+            "isCapital": false,
+            "isDifficult": true
+        },
+        {
+            "name": "四日市",
+            "prefecture": "三重県",
+            "type": "city",
+            "isCapital": false,
+            "isDifficult": false
+        },
+        {
+            "name": "川越",
+            "prefecture": "三重県",
+            "type": "town",
+            "isCapital": false,
+            "isDifficult": true
+        },
+        {
+            "name": "朝日",
+            "prefecture": "三重県",
+            "type": "town",
+            "isCapital": false,
+            "isDifficult": true
+        },
+        {
+            "name": "桑名",
+            "prefecture": "三重県",
+            "type": "city",
+            "isCapital": false,
+            "isDifficult": false
+        },
+        {
+            "name": "弥富",
+            "prefecture": "愛知県",
+            "type": "city",
+            "isCapital": false,
+            "isDifficult": false
+        },
+        {
+            "name": "愛西",
+            "prefecture": "愛知県",
+            "type": "city",
+            "isCapital": false,
+            "isDifficult": true
+        },
+        {
+            "name": "蟹江",
+            "prefecture": "愛知県",
+            "type": "town",
+            "isCapital": false,
+            "isDifficult": true
+        },
+        {
+            "name": "名古屋",
+            "prefecture": "愛知県",
+            "type": "city",
+            "isCapital": true,
+            "isDifficult": false
+        },
+        {
+            "name": "豊明",
+            "prefecture": "愛知県",
+            "type": "city",
+            "isCapital": false,
+            "isDifficult": true
+        },
+        {
+            "name": "刈谷",
+            "prefecture": "愛知県",
+            "type": "city",
+            "isCapital": false,
+            "isDifficult": false
+        },
+        {
+            "name": "知立",
+            "prefecture": "愛知県",
+            "type": "city",
+            "isCapital": false,
+            "isDifficult": false
+        },
+        {
+            "name": "安城",
+            "prefecture": "愛知県",
+            "type": "city",
+            "isCapital": false,
+            "isDifficult": false
+        },
+        {
+            "name": "岡崎",
+            "prefecture": "愛知県",
+            "type": "city",
+            "isCapital": false,
+            "isDifficult": false
+        },
+        {
+            "name": "豊川",
+            "prefecture": "愛知県",
+            "type": "city",
+            "isCapital": false,
+            "isDifficult": true
+        },
+        {
+            "name": "豊橋",
+            "prefecture": "愛知県",
+            "type": "city",
+            "isCapital": false,
+            "isDifficult": false
+        },
+        {
+            "name": "湖西",
+            "prefecture": "静岡県",
+            "type": "city",
+            "isCapital": false,
+            "isDifficult": false
+        },
+        {
+            "name": "浜松",
+            "prefecture": "静岡県",
+            "type": "city",
+            "isCapital": false,
+            "isDifficult": false
+        },
+        {
+            "name": "磐田",
+            "prefecture": "静岡県",
+            "type": "city",
+            "isCapital": false,
+            "isDifficult": true
+        },
+        {
+            "name": "袋井",
+            "prefecture": "静岡県",
+            "type": "city",
+            "isCapital": false,
+            "isDifficult": true
+        },
+        {
+            "name": "掛川",
+            "prefecture": "静岡県",
+            "type": "city",
+            "isCapital": false,
+            "isDifficult": false
+        },
+        {
+            "name": "島田",
+            "prefecture": "静岡県",
+            "type": "city",
+            "isCapital": false,
+            "isDifficult": true
+        },
+        {
+            "name": "藤枝",
+            "prefecture": "静岡県",
+            "type": "city",
+            "isCapital": false,
+            "isDifficult": false
+        },
+        {
+            "name": "静岡",
+            "prefecture": "静岡県",
+            "type": "city",
+            "isCapital": true,
+            "isDifficult": false
+        },
+        {
+            "name": "富士",
+            "prefecture": "静岡県",
+            "type": "city",
+            "isCapital": false,
+            "isDifficult": false
+        },
+        {
+            "name": "沼津",
+            "prefecture": "静岡県",
+            "type": "city",
+            "isCapital": false,
+            "isDifficult": false
+        },
+        {
+            "name": "長泉",
+            "prefecture": "静岡県",
+            "type": "town",
+            "isCapital": false,
+            "isDifficult": true
+        },
+        {
+            "name": "清水",
+            "prefecture": "静岡県",
+            "type": "town",
+            "isCapital": false,
+            "isDifficult": true
+        },
+        {
+            "name": "三島",
+            "prefecture": "静岡県",
+            "type": "city",
+            "isCapital": false,
+            "isDifficult": false
+        },
+        {
+            "name": "函南",
+            "prefecture": "静岡県",
+            "type": "town",
+            "isCapital": false,
+            "isDifficult": true
+        },
+        {
+            "name": "箱根",
+            "prefecture": "神奈川県",
+            "type": "town",
+            "isCapital": false,
+            "isDifficult": false
+        },
+        {
+            "name": "小田原",
+            "prefecture": "神奈川県",
+            "type": "city",
+            "isCapital": false,
+            "isDifficult": false
+        },
+        {
+            "name": "二宮",
+            "prefecture": "神奈川県",
+            "type": "town",
+            "isCapital": false,
+            "isDifficult": true
+        },
+        {
+            "name": "大磯",
+            "prefecture": "神奈川県",
+            "type": "town",
+            "isCapital": false,
+            "isDifficult": true
+        },
+        {
+            "name": "平塚",
+            "prefecture": "神奈川県",
+            "type": "city",
+            "isCapital": false,
+            "isDifficult": false
+        },
+        {
+            "name": "茅ケ崎",
+            "prefecture": "神奈川県",
+            "type": "city",
+            "isCapital": false,
+            "isDifficult": false
+        },
+        {
+            "name": "藤沢",
+            "prefecture": "神奈川県",
+            "type": "city",
+            "isCapital": false,
+            "isDifficult": false
+        },
+        {
+            "name": "横浜",
+            "prefecture": "神奈川県",
+            "type": "city",
+            "isCapital": true,
+            "isDifficult": false
+        },
+        {
+            "name": "川崎",
+            "prefecture": "神奈川県",
+            "type": "city",
+            "isCapital": false,
+            "isDifficult": false
+        },
+        {
+            "name": "東京",
+            "prefecture": "東京都",
+            "type": "city",
+            "isCapital": true,
+            "isDifficult": false
+        }
+    ]
+}

@@ -19,13 +19,11 @@ export default function ABox (props: {
     }
     return(
         <div>
-            <div>
-                <input 
-                    type="text" 
-                    onInput={updateTextBox} 
-                    className={defineBoxClassName(props.isCapital, props.type)}
-                />
-            </div>
+            <input 
+                type="text" 
+                onInput={updateTextBox} 
+                className={defineBoxClassName(props.isCapital, props.type)}
+            />
         </div>
     )
 }

@@ -11,6 +11,8 @@ export default function ModePage ({ params: { mode } }: { params: { mode: string
         yourAnswer.set(key, value)
     }
 
+    const showPrefBorder = (idx: number) => answer[idx].prefecture !== answer[idx + 1].prefecture
+
     return (
         <div className='h-screen flex flex-col flex-wrap'>
             {
@@ -24,7 +26,14 @@ export default function ModePage ({ params: { mode } }: { params: { mode: string
                                 type={a.type}
                             />
                         </div>
-                        { idx !== answer.length - 1 ? <div className='flex'>↓</div> : null }
+                        { idx === answer.length - 1 
+                            ? null
+                            : showPrefBorder(idx) 
+                                ? <div className='relative border-b-2 border-dashed border-black h-6'>
+                                    <span className='absolute t-2'>↓</span>
+                                </div>
+                                : <div>↓</div>
+                        }
                     </div>
                 ))
             }
